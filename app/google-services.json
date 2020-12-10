@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "396607630305",
+    "firebase_url": "https://personalitydevelopment-3e891.firebaseio.com",
+    "project_id": "personalitydevelopment-3e891",
+    "storage_bucket": "personalitydevelopment-3e891.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396607630305:android:f9707e16b1596a5d5bc0a0",
+        "android_client_info": {
+          "package_name": "com.nayyab.tech.waziristantourismadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofCrRhufFGM712-MIsAPgXXbddMxi5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396607630305:android:54d6668b66314d7e5bc0a0",
+        "android_client_info": {
+          "package_name": "com.waziristan.tourism.colors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBofCrRhufFGM712-MIsAPgXXbddMxi5co"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396607630305-1ikeek21pua7dhgffm1g2iu5f97hdrom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
